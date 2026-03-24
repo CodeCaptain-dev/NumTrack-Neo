@@ -21,9 +21,7 @@ This tool is built with double-precision floating-point support, giving you up t
 - **Console-based interface** with sleek startup header for a “device-like” feel.  
 - Designed for **learning, experimentation, and analysis**.  
 - Lightweight, fast, and minimal dependencies.  
-- Can easily be extended for advanced features like descending sort, CSV export, or GUI.  
 - Fully traceable, ideal for debugging or educational use.  
-- **Customizable prompts and headers** to make your program look professional.  
 
 ---
 
