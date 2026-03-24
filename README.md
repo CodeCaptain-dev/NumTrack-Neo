@@ -30,11 +30,11 @@ This tool is built with double-precision floating-point support, giving you up t
 Here’s a sample session:
 
 
-Welcome to NumTrack Neo — Core 1.0.0
-Enter the number of numbers: 6
-Number 1: 3.14
-Number 2: 1.618
-Number 3: 2.718
+Welcome to NumTrack Neo v1.0. \
+Enter the number of numbers: 6 \
+Number 1: 3.14 \
+Number 2: 1.618 \
+Number 3: 2.718 \
 Number 4: 42.0
 Number 5: 0.007
 Number 6: 100.0
