@@ -45,8 +45,8 @@ Sorted numbers: \
 2.718, N3 \
 3.14, N1 \
 42.0, N4 \
-100.0, N6 \ 
-Numbers loaded successfully... \
+100.0, N6    
+Numbers loaded successfully...   \
 
 
 **Notes on output:**
