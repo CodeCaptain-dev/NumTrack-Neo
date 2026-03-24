@@ -51,7 +51,7 @@ Numbers loaded successfully...
 
 **Notes on output:**
 
-- `N0, N1…` indicate the **original input position**, starting at 0.  
+- `N1, N2…` indicate the **original input position**, starting at 1.  
 - Works with decimals, integers, and mixed input.  
 - Sorted output is in ascending order.  
 - Original positions are preserved, giving full traceability.  
