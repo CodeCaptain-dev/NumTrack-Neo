@@ -1,4 +1,4 @@
-# NumTrack Neo — Core 1.0.0
+# NumTrack Neo — Version 1.0
 
 **Next-gen number sorter with index tracking and high precision.**
 
