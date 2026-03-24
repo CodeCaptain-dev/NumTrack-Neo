@@ -37,7 +37,7 @@ Number 2: 1.618 \
 Number 3: 2.718 \
 Number 4: 42.0 \
 Number 5: 0.007 \
-Number 6: 100.0 \
+Number 6: 100.0    
 
 Sorted numbers: \
 0.007, N5 \
@@ -46,7 +46,7 @@ Sorted numbers: \
 3.14, N1 \
 42.0, N4 \
 100.0, N6    
-Numbers loaded successfully...   \
+Numbers loaded successfully...     
 
 
 **Notes on output:**
